@@ -10,4 +10,5 @@ elif (greet == "H"):
 else:
     money=100
 
+
 print("$",money)
